@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord-reply": "^0.1.2",
+    "discord.js": "^11.5.0"
+  },
+  "name": "use-yourself",
+  "version": "1.0.0",
+  "main": "zetsu.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
